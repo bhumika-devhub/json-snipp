@@ -4,139 +4,219 @@
     "country": "India",
     "region": "APAC",
     "currency": "INR",
-    "capital": "New Delhi"
+    "capital": "New Delhi",
+    "population": 1420000000,
+    "area": 3287000,
+    "gdp": 3200,
+    "happinessIndex": 4.0
   },
   {
     "id": 2,
     "country": "United States",
     "region": "NA",
     "currency": "USD",
-    "capital": "Washington D.C."
+    "capital": "Washington D.C.",
+    "population": 339000000,
+    "area": 9834000,
+    "gdp": 27000,
+    "happinessIndex": 6.9
   },
   {
     "id": 3,
     "country": "United Kingdom",
     "region": "EMEA",
     "currency": "GBP",
-    "capital": "London"
+    "capital": "London",
+    "population": 68000000,
+    "area": 243000,
+    "gdp": 3300,
+    "happinessIndex": 7.2
   },
   {
     "id": 4,
     "country": "Germany",
     "region": "EMEA",
     "currency": "EUR",
-    "capital": "Berlin"
+    "capital": "Berlin",
+    "population": 84000000,
+    "area": 357000,
+    "gdp": 4300,
+    "happinessIndex": 7.0
   },
   {
     "id": 5,
     "country": "France",
     "region": "EMEA",
     "currency": "EUR",
-    "capital": "Paris"
+    "capital": "Paris",
+    "population": 65000000,
+    "area": 551000,
+    "gdp": 3000,
+    "happinessIndex": 6.7
   },
   {
     "id": 6,
     "country": "Australia",
     "region": "APAC",
     "currency": "AUD",
-    "capital": "Canberra"
+    "capital": "Canberra",
+    "population": 26000000,
+    "area": 7690000,
+    "gdp": 1700,
+    "happinessIndex": 7.1
   },
   {
     "id": 7,
     "country": "Canada",
     "region": "NA",
     "currency": "CAD",
-    "capital": "Ottawa"
+    "capital": "Ottawa",
+    "population": 39000000,
+    "area": 9985000,
+    "gdp": 2200,
+    "happinessIndex": 7.0
   },
   {
     "id": 8,
     "country": "Japan",
     "region": "APAC",
     "currency": "JPY",
-    "capital": "Tokyo"
+    "capital": "Tokyo",
+    "population": 124000000,
+    "area": 378000,
+    "gdp": 4200,
+    "happinessIndex": 5.9
   },
   {
     "id": 9,
     "country": "Brazil",
     "region": "LATAM",
     "currency": "BRL",
-    "capital": "Brasília"
+    "capital": "Brasília",
+    "population": 216000000,
+    "area": 8516000,
+    "gdp": 1800,
+    "happinessIndex": 6.0
   },
   {
     "id": 10,
     "country": "Mexico",
     "region": "LATAM",
     "currency": "MXN",
-    "capital": "Mexico City"
+    "capital": "Mexico City",
+    "population": 130000000,
+    "area": 1964000,
+    "gdp": 1500,
+    "happinessIndex": 5.8
   },
   {
     "id": 11,
     "country": "Italy",
     "region": "EMEA",
     "currency": "EUR",
-    "capital": "Rome"
+    "capital": "Rome",
+    "population": 59000000,
+    "area": 301000,
+    "gdp": 2100,
+    "happinessIndex": 6.0
   },
   {
     "id": 12,
     "country": "South Africa",
     "region": "EMEA",
     "currency": "ZAR",
-    "capital": "Pretoria"
+    "capital": "Pretoria",
+    "population": 61000000,
+    "area": 1221000,
+    "gdp": 405,
+    "happinessIndex": 4.7
   },
   {
     "id": 13,
     "country": "Singapore",
     "region": "APAC",
     "currency": "SGD",
-    "capital": "Singapore"
+    "capital": "Singapore",
+    "population": 5700000,
+    "area": 728,
+    "gdp": 500,
+    "happinessIndex": 7.4
   },
   {
     "id": 14,
     "country": "China",
     "region": "APAC",
     "currency": "CNY",
-    "capital": "Beijing"
+    "capital": "Beijing",
+    "population": 1410000000,
+    "area": 9597000,
+    "gdp": 17000,
+    "happinessIndex": 5.8
   },
   {
     "id": 15,
     "country": "Argentina",
     "region": "LATAM",
     "currency": "ARS",
-    "capital": "Buenos Aires"
+    "capital": "Buenos Aires",
+    "population": 46000000,
+    "area": 2780000,
+    "gdp": 630,
+    "happinessIndex": 5.9
   },
   {
     "id": 16,
     "country": "Spain",
     "region": "EMEA",
     "currency": "EUR",
-    "capital": "Madrid"
+    "capital": "Madrid",
+    "population": 48000000,
+    "area": 505000,
+    "gdp": 1800,
+    "happinessIndex": 6.7
   },
   {
     "id": 17,
     "country": "Switzerland",
     "region": "EMEA",
     "currency": "CHF",
-    "capital": "Bern"
+    "capital": "Bern",
+    "population": 8900000,
+    "area": 41285,
+    "gdp": 800,
+    "happinessIndex": 7.5
   },
   {
     "id": 18,
     "country": "New Zealand",
     "region": "APAC",
     "currency": "NZD",
-    "capital": "Wellington"
+    "capital": "Wellington",
+    "population": 5200000,
+    "area": 268000,
+    "gdp": 250,
+    "happinessIndex": 7.0
   },
   {
     "id": 19,
     "country": "Indonesia",
     "region": "APAC",
     "currency": "IDR",
-    "capital": "Jakarta"
+    "capital": "Jakarta",
+    "population": 277000000,
+    "area": 1910000,
+    "gdp": 1300,
+    "happinessIndex": 5.2
   },
   {
     "id": 20,
     "country": "United Arab Emirates",
     "region": "EMEA",
     "currency": "AED",
-    "capital": "Abu Dhabi"
+    "capital": "Abu Dhabi",
+    "population": 9800000,
+    "area": 83600,
+    "gdp": 500,
+    "happinessIndex": 6.8
   }
 ]
