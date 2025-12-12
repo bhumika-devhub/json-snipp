@@ -3,12 +3,140 @@
     "id": 1,
     "country": "India",
     "region": "APAC",
-    "currency": "INR"
+    "currency": "INR",
+    "capital": "New Delhi"
   },
   {
     "id": 2,
     "country": "United States",
     "region": "NA",
-    "currency": "USD"
+    "currency": "USD",
+    "capital": "Washington D.C."
+  },
+  {
+    "id": 3,
+    "country": "United Kingdom",
+    "region": "EMEA",
+    "currency": "GBP",
+    "capital": "London"
+  },
+  {
+    "id": 4,
+    "country": "Germany",
+    "region": "EMEA",
+    "currency": "EUR",
+    "capital": "Berlin"
+  },
+  {
+    "id": 5,
+    "country": "France",
+    "region": "EMEA",
+    "currency": "EUR",
+    "capital": "Paris"
+  },
+  {
+    "id": 6,
+    "country": "Australia",
+    "region": "APAC",
+    "currency": "AUD",
+    "capital": "Canberra"
+  },
+  {
+    "id": 7,
+    "country": "Canada",
+    "region": "NA",
+    "currency": "CAD",
+    "capital": "Ottawa"
+  },
+  {
+    "id": 8,
+    "country": "Japan",
+    "region": "APAC",
+    "currency": "JPY",
+    "capital": "Tokyo"
+  },
+  {
+    "id": 9,
+    "country": "Brazil",
+    "region": "LATAM",
+    "currency": "BRL",
+    "capital": "Brasília"
+  },
+  {
+    "id": 10,
+    "country": "Mexico",
+    "region": "LATAM",
+    "currency": "MXN",
+    "capital": "Mexico City"
+  },
+  {
+    "id": 11,
+    "country": "Italy",
+    "region": "EMEA",
+    "currency": "EUR",
+    "capital": "Rome"
+  },
+  {
+    "id": 12,
+    "country": "South Africa",
+    "region": "EMEA",
+    "currency": "ZAR",
+    "capital": "Pretoria"
+  },
+  {
+    "id": 13,
+    "country": "Singapore",
+    "region": "APAC",
+    "currency": "SGD",
+    "capital": "Singapore"
+  },
+  {
+    "id": 14,
+    "country": "China",
+    "region": "APAC",
+    "currency": "CNY",
+    "capital": "Beijing"
+  },
+  {
+    "id": 15,
+    "country": "Argentina",
+    "region": "LATAM",
+    "currency": "ARS",
+    "capital": "Buenos Aires"
+  },
+  {
+    "id": 16,
+    "country": "Spain",
+    "region": "EMEA",
+    "currency": "EUR",
+    "capital": "Madrid"
+  },
+  {
+    "id": 17,
+    "country": "Switzerland",
+    "region": "EMEA",
+    "currency": "CHF",
+    "capital": "Bern"
+  },
+  {
+    "id": 18,
+    "country": "New Zealand",
+    "region": "APAC",
+    "currency": "NZD",
+    "capital": "Wellington"
+  },
+  {
+    "id": 19,
+    "country": "Indonesia",
+    "region": "APAC",
+    "currency": "IDR",
+    "capital": "Jakarta"
+  },
+  {
+    "id": 20,
+    "country": "United Arab Emirates",
+    "region": "EMEA",
+    "currency": "AED",
+    "capital": "Abu Dhabi"
   }
 ]
